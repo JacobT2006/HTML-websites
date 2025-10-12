@@ -1,2 +1,2 @@
-# Basic-HTML-website
+## Basic-HTML-website
 Just basic HTML website
