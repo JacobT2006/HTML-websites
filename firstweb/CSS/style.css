@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    /* font: status-bar; */
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #2C66B8;
+    color: rgb(0, 0, 0);
+}
+
+#main-header {
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+#main-header span{
+    padding: 10px;
+    background-color: #4A90E2;
+}
+
+#img-link {
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
