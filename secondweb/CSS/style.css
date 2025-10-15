@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    margin: 0; 
+}
+
+.img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+}
+
+/* Overall nav style */
+.nav {
+    /* background-color: #000000; */
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    overflow: hidden;
+    /* padding: 10px;    --> if want spacing */
+    position: sticky;
+    position:-webkit-sticky; 
+    text-align: center;
+}
+/* Control wher0e text is */
+.nav a{
+    color: black;
+    float: left;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none; 
+    top: 0;
+}
+
+/* Active HTML File */
+.nav a.active{  
+    background-color: hsl(212, 52%, 50%, 0.5);
+}
+
+/* On hover action style */
+.nav a:hover{
+    background-color: hsl(213, 92%, 85%, 0.5);
+}
