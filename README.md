@@ -1,2 +1,2 @@
-## Basic-HTML-website
-Just basic HTML website
+## HTML/JAVASCRIPT/CSS
+Just basic website outlines for myself
